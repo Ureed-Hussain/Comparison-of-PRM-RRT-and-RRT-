@@ -19,9 +19,7 @@ This project implements and compares three sampling-based motion planning algori
 ## Installation
 1. Clone this repository:
 2. Open MATLAB and navigate to the project directory.
-3. Run the main script:
-   ```matlab
-   ```
+3. Run the main script
 
 ## Usage
 ### Configurations
